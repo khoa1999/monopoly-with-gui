@@ -1,0 +1,40 @@
+Start
+Land brown 60 DODGECOIN 10
+Community
+Land brown 60 REDDCOIN 20
+Tax 200
+RailRoad
+Land blue 100 STELLA 30
+Chance
+Land blue 100 ARDOR 30
+Land blue 100 EOS 40
+Jail
+Land pink 140 TRON 50
+Electric
+Land pink 140 NXT 50
+Land pink 140 NEO 60
+RailRoad
+Land orange 180 VERGE 70
+Community
+Land orange 180 ZCASH 70
+Land orange 180 MONNERO 80
+Parking
+Land red 220 QTUM 90
+Chance
+Land red 220 LISK 90 
+Land red 240 IOTA 100
+RailRoad
+Land yellow 260 RIPPLE 110
+Land yellow 260 DASH 110
+Water
+Land yellow 280 LITECOIN 120
+GotoJail
+Land green 300 NEM 130
+Land green 300 CARDANO 130
+Community
+Land green 320 ETHEREUM 150
+RailRoad
+Chance
+Land DarkBlue 350 BITCOINCASH 175
+Tax 100
+Land DarkBlue 400 BITCOINCORE 200
